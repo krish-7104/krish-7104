@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @krish-7104
 - 👀 I’m interested in web development and android development.
-- 🌱 I’m currently learning android development and C language.
+- 🌱 I’m currently learning C++ With OOPS 👀!
+
 
 <!---
 krish-7104/krish-7104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
