@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krish-7104
-- 👀 I’m interested in web development and android development.
+- 👀 I’m frontend web developer, javascript and reactjs.
 - 🌱 I’m currently learning C++ With OOPS 👀!
 
 
