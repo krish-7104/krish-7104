@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krish-7104
 - 👀 I’m frontend web developer, javascript and reactjs.
-
+- portfolio: https://krishjotaniya.netlify.app/
 
 <!---
 krish-7104/krish-7104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
