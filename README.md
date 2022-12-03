@@ -15,9 +15,6 @@ A Full Stack Developer<br>ReactJS | NextJs | MongoDB<br>Prominent In C++<br>Love
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=krish-7104&icon=5&color=0)](https://visitcount.itsvg.in)
 
