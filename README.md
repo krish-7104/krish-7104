@@ -18,5 +18,4 @@ A Full Stack Developer<br>ReactJS | NextJs | MongoDB<br>Prominent In C++<br>Love
 ---
 [![](https://visitcount.itsvg.in/api?id=krish-7104&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-google-site-verification: google58c4659db834f242.html
+
