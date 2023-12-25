@@ -1,8 +1,5 @@
-<p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/krish-7104/krish-7104/assets/95702005/96e7bab9-f398-40d8-881c-9285375cf366” alt=”my banner”>
-
-</p>
+![Black Technology LinkedIn Banner](https://github.com/krish-7104/krish-7104/assets/95702005/0b9179b6-9ef5-43f7-ac30-33ebb393f6f9)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krxsh.71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishjotaniya) 
