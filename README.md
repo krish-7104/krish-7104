@@ -7,13 +7,5 @@
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,c,cpp,mysql,postgresql,mongodb,tailwind,git,postman,redux,html,css,firebase,figma&theme=dark)
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=krish-7104&theme=dark&hide_border=false)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krish-7104&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=krish-7104&icon=1&color=12)](https://visitcount.itsvg.in)
