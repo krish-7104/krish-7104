@@ -3,7 +3,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krxsh.71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishjotaniya) 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/krishjotaniya)](https://peerlist.io/krishjotaniya)
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,c,cpp,mysql,postgresql,mongodb,tailwind,git,postman,redux,html,css,firebase,figma&theme=dark)
 
